@@ -1,0 +1,36 @@
+h1   
+{
+	font-family: lobster;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	text-align: center;
+	color: #0000FF;
+	line-height: 1.4em;
+}
+
+h2     
+{
+	font-size: 23px;
+	font-family: lobster;
+	font-style: normal;
+	font-weight: 400;
+	color: #00008b;
+	text-align: center;
+	line-height: 1.4em;
+}
+
+p 
+{
+	font-style: normal;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 1.5em;
+	font-family: questrial;
+}
+
+main
+{
+	background-color: whitesmoke;
+	text-align: center;
+}
